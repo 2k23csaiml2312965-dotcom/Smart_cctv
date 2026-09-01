@@ -104,6 +104,7 @@ smart_cctv/
     └── logs/incidents.csv
 ```
 
+
 ---
 
 ## ⚙️ Installation
@@ -250,6 +251,12 @@ python main.py
 | Weapon + Fight   | CRITICAL |
 
 ---
+<img width="1912" height="906" alt="image" src="https://github.com/user-attachments/assets/60f0d928-7c3f-43b1-921a-075664c093bf" />
+
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/97e4450b-f636-44e8-9798-2adea030c617" />
+
+<img width="1885" height="912" alt="image" src="https://github.com/user-attachments/assets/92f38ef1-ff83-499e-b3f1-15b183fedde0" />
+
 
 ## 📊 Output
 
@@ -292,7 +299,7 @@ ultralytics
 
 ## 👨‍💻 Author
 
-Krish Agrawal , Pratham Chandpurkar, prateek Ranjan , Prashant Bisen
+Smita
 
 ---
 
